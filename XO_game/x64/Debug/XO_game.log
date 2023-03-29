@@ -1,0 +1,11 @@
+﻿  XO_program.c
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(158,46): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t'
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(158,33): warning C4024: 'getPlayerSymbol': different types for formal and actual parameter 2
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(192,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(192,9): message : consider using '%hhd' in the format string
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(198,17): warning C4133: 'function': incompatible types - from 'int [9]' to 'uint8_t *'
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(205,17): warning C4133: 'function': incompatible types - from 'int [9]' to 'uint8_t *'
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(242,13): warning C4553: '==': result of expression not used; did you intend '='?
+E:\sprints_tasks\sprint 2\XO_game\XO_program.c(258,16): warning C4047: '=': 'uint8_t *' differs in levels of indirection from 'int'
+  LINK : E:\sprints_tasks\sprint 2\XO_game\x64\Debug\XO_game.exe not found or not built by the last incremental link; performing full link
+  XO_game.vcxproj -> E:\sprints_tasks\sprint 2\XO_game\x64\Debug\XO_game.exe
